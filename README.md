@@ -1,4 +1,3 @@
-# Data-Analysis-using-Excel
 # Sales-Analysis-Dashboard
 
 ## Problem Statement
@@ -8,15 +7,13 @@ Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda ca
 
 ## Dataset Used
 A historical dataset with 1000,000 rows and 21 columns spanning 1 year. Data is stored in a single table.
-![data set](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/504edcd7-0c53-4a1a-b5c6-0e1a22b8f19a)
-
+![Screenshot (14)](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/da7e7669-6db8-46f6-9334-5cb1c29717fe)
 ## Analyses derived from the dataset
 - Analysis of orders shipped in various months.
 
 ![sales vs order](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/14cbd2d9-f171-4982-a7e5-4ea97b21e455)
 
-
-- Analysis of Order Shipped contribution by Men and Women
+- Analysis of Order Shipped Contribution by Men and Women
 
 ![men vs women](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/f187611e-6e2d-40aa-8962-6f09ef8f6075)
 
@@ -25,11 +22,11 @@ A historical dataset with 1000,000 rows and 21 columns spanning 1 year. Data is 
   
 -	Analysis of Top 5 States which contribute to the Sales
 ![Top 5 States](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/787b5d8b-84d5-47d8-a275-089e25127dcf)
--	Analysis of relationship between age and gender based on numbers of order.
+-	Analysis of the relationship between age and gender based on numbers of order.
 ![age vs gender](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/e570b0dc-0ff5-4435-9877-34571fb894eb)
 - Analysis of channel contribution to sales
 ![Sales distribution](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/0f5b2b41-e558-4d5d-b9b1-704d054a6da3)
-
+- 
 - Easy-to-read cards visualize important KPIs for rapid decision-making.
 
 ![month](https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/f6b9f255-5c79-4386-b7c3-5d023b24cf09)
