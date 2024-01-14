@@ -51,4 +51,13 @@ A historical dataset with 1000,000 rows and 21 columns spanning 1 year. Data is 
 
 https://github.com/irawatsaurav/Data-Analysis-using-Excel/assets/155745836/9ca6b75d-2cb8-4e0f-aca3-0e4ff4e09f42
 
+## Sample Insight
+- women are more likely to buy compared to men.
+- Maharastra, Karnataka, and Uttar Pradesh are the top 3.
+- The adult age group (30-39) is max contributing.
+- Amazon, Flipkart, and Myntra Channels are max Contributors.
+
+## Final Concluion 
+- Target Women customers of the age group (30-39) living in Maharastra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+
 
